@@ -37,6 +37,11 @@ a {
 	color: #ffffff;
 }
 
+#s0 a {
+	font-size: 0.7em;
+	color: #fdd560;
+}
+
 #s1 a {
 	font-size: 0.7em;
 	color: #74eaf1;
