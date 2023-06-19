@@ -1,4 +1,7 @@
-        Top_Frame = ttk.Frame(hostPage)
+      
+      
+      
+      Top_Frame = ttk.Frame(hostPage)
 
         Top_Frame.grid(row=0, column=0, padx=90, pady=15)
 
